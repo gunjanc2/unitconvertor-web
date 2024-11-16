@@ -14,3 +14,8 @@ You can include the following units of measurement to convert between:
 •	Length: millimeter, centimeter, meter, kilometer, inch, foot, yard, mile.
 •	Weight: milligram, gram, kilogram, ounce, pound.
 •	Temperature: Celsius, Fahrenheit, Kelvin.
+
+## URL:
+1. Length Convertor: http://localhost:8080/length
+2. Weight Convertor: http://localhost:8080/weight
+3. Temperature Convertor: http://localhost:8080/temperature
